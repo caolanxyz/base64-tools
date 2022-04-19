@@ -120,7 +120,7 @@ a:hover, a.active {
 
 #droppable-zone {
   border: 10px dashed #ccc;
-  height: 200px;
+  height: 100px;
   width: 650px;
   position: relative;
   overflow: hidden;
@@ -159,7 +159,7 @@ textarea {
   font-size: 12pt;
   max-width: 95%;
   width: 95%;
-  height: 200px;
+  height: 100px;
   border: 3px double #ccc;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
@@ -176,17 +176,17 @@ textarea {
 
 ::-webkit-input-placeholder { 
   text-align: center;
-  line-height: 200px;
+  line-height: 100px;
   font-size: 16pt;
 }
 ::-moz-placeholder { 
   text-align: center;
-  line-height: 200px;
+  line-height: 100px;
   font-size: 16pt;
 }
 :-ms-input-placeholder{ 
   text-align: center;
-  line-height: 200px;
+  line-height: 100px;
   font-size: 16pt;
 }
 
